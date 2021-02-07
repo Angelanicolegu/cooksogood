@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Mali:wght@200&display=swap');
+
+@import url(componets/container.css);
+@import url(componets/banner.css);
+@import url(componets/menu.css);
+@import url(componets/img-radius.css);
+@import url(componets/btn-blue.css);
+@import url(componets/ceo.css);
+
+
+body {
+	font-size: 16px;
+	font-weight: lighter;
+	background-color: black;
+}
+
+a{
+	padding: 10px 20px;
+
+}
+
+
+h1, h2, h3 {
+	color: white;
+}
